@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kunalpanche" target="blank"><img src="https://img.shields.io/twitter/follow/kunalpanche?logo=twitter&style=for-the-badge" alt="kunalpanche" /></a> </p>
 
-- 🌱 I’m currently learning ** DSA & Machine learning**
+- 🌱 I’m currently learning **DSA & Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://kunal-panche.netlify.app/](https://kunal-panche.netlify.app/)
 
