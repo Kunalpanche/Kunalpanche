@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **DSA & Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://kunal-panche.netlify.app/](https://kunal-panche.netlify.app/)
-
 - 💬 Ask me about **Web dev ,data analysis ,Machine learning,Iot**
 
 - 📫 How to reach me **kunalpanche@gmail.com**
