@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web dev ,data analysis ,Machine learning,Iot**
 
-- 📫 How to reach me **kunalpanche@gmail.com**
+- 📫 How to reach me **kunalpanche34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
